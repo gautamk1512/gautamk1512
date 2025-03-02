@@ -1,4 +1,4 @@
-[View Canva Design](https://www.canva.com/design/DAGgjEz-DOA/6qDUJHDZ7kor1h994Sso4A/edit?utm_content=DAGgjEz-DOA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![logo](https://github.com/gautamk1512/gautamk1512/blob/main/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Gautam Singh</h1>
 <h3 align="center">I am a passionate Full Stack Developer and from India, skilled in building dynamic, end-to-end web applications. I specialize in both front-end and back-end development, crafting seamless user experiences with clean, efficient code.</h3>
 <img 
