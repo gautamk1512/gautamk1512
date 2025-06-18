@@ -29,10 +29,59 @@ I am proficient in a wide range of technologies including:
 - Mobile: Android, Flutter
 - Other Tools: Git, Postman, Figma, Photoshop
 
+## Design Portfolio
+### UI/UX Designs
+- Modern and responsive web interfaces
+- Mobile-first design approach
+- User-centered design principles
+- Interactive prototypes using Figma
+- Custom illustrations and graphics
+
+### Design Tools Expertise
+- Figma for UI/UX design
+- Adobe Photoshop for image editing
+- Adobe Illustrator for vector graphics
+- Blender for 3D modeling and animation
+
+## Projects & Achievements
+### Web Development
+- Full-stack web applications
+- E-commerce platforms
+- Learning Management Systems
+- Real-time chat applications
+- RESTful API development
+
+### Mobile Development
+- Cross-platform mobile apps using Flutter
+- Native Android applications
+- Mobile-first responsive designs
+
+### AI & Machine Learning
+- Computer Vision projects using OpenCV
+- Machine Learning models with TensorFlow and PyTorch
+- Data analysis and visualization
+
+## Community & Collaboration
+- Active open-source contributor
+- Technical blog writer
+- YouTube content creator
+- Tech community mentor
+- Regular participation in hackathons and coding competitions
+
 ## GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gautamk1512&show_icons=true&locale=en)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=gautamk1512&show_icons=true&locale=en&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gautamk1512&)
 
 ## Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=gautamk1512&label=Profile%20views&color=0e75b6&style=flat) 
+![Profile Views](https://komarev.com/ghpvc/?username=gautamk1512&label=Profile%20views&color=0e75b6&style=flat)
+
+## Connect & Collaborate
+Feel free to reach out for:
+- Project collaborations
+- Technical discussions
+- Mentorship opportunities
+- Job opportunities
+- Open-source contributions
+
+Let's connect and create something amazing together! 🚀 
